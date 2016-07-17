@@ -8,26 +8,10 @@
 	"buffers":
 	[
 		{
-			"file": "soccer.html",
-			"settings":
-			{
-				"buffer_size": 1077,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "basketball.html",
-			"settings":
-			{
-				"buffer_size": 1223,
-				"line_ending": "Windows"
-			}
-		},
-		{
 			"file": "check-up.html",
 			"settings":
 			{
-				"buffer_size": 1193,
+				"buffer_size": 790,
 				"line_ending": "Windows"
 			}
 		}
@@ -56,8 +40,9 @@
 	},
 	"file_history":
 	[
-		"/C/Users/afifm/Documents/GitHub/Check-Up/check-up.html",
+		"/C/Users/afifm/Documents/GitHub/Check-Up/soccer.html",
 		"/C/Users/afifm/Documents/GitHub/Check-Up/basketball.html",
+		"/C/Users/afifm/Documents/GitHub/Check-Up/check-up.html",
 		"/C/Users/afifm/Documents/GitHub/Check-Up/soccer",
 		"/C/Users/afifm/Documents/GitHub/Check-Up/Test.sublime-workspace",
 		"/C/Users/afifm/Documents/GitHub/CheckUp/basketball.html",
@@ -109,71 +94,15 @@
 	"groups":
 	[
 		{
-			"selected": 1,
+			"selected": 0,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "soccer.html",
-					"settings":
-					{
-						"buffer_size": 1077,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								873,
-								873
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 493.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "basketball.html",
-					"settings":
-					{
-						"buffer_size": 1223,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1143,
-								1143
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 529.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 2,
 					"file": "check-up.html",
 					"settings":
 					{
-						"buffer_size": 1193,
+						"buffer_size": 790,
 						"regions":
 						{
 						},
@@ -187,11 +116,11 @@
 						"settings":
 						{
 							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"tab_size": 4,
+							"tab_size": 2,
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 670.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
