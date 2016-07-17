@@ -7,22 +7,6 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "check-up.html",
-			"settings":
-			{
-				"buffer_size": 1193,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "basketball.html",
-			"settings":
-			{
-				"buffer_size": 1228,
-				"line_ending": "Windows"
-			}
-		}
 	],
 	"build_system": "",
 	"command_palette":
@@ -48,6 +32,10 @@
 	},
 	"file_history":
 	[
+		"/C/Users/afifm/Documents/GitHub/Check-Up/check-up.html",
+		"/C/Users/afifm/Documents/GitHub/Check-Up/basketball.html",
+		"/C/Users/afifm/Documents/GitHub/Check-Up/soccer",
+		"/C/Users/afifm/Documents/GitHub/Check-Up/Test.sublime-workspace",
 		"/C/Users/afifm/Documents/GitHub/CheckUp/basketball.html",
 		"/C/Users/afifm/Documents/GitHub/CheckUp/check-up.html",
 		"/C/Users/afifm/Documents/GitHub/CheckUp/CheckUp",
@@ -97,65 +85,8 @@
 	"groups":
 	[
 		{
-			"selected": 0,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "check-up.html",
-					"settings":
-					{
-						"buffer_size": 1193,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								646,
-								646
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 492.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "basketball.html",
-					"settings":
-					{
-						"buffer_size": 1228,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				}
 			]
 		}
 	],
