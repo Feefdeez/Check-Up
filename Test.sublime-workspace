@@ -1,0 +1,224 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "check-up.html",
+			"settings":
+			{
+				"buffer_size": 1193,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "basketball.html",
+			"settings":
+			{
+				"buffer_size": 1228,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/afifm/Documents/GitHub/CheckUp/basketball.html",
+		"/C/Users/afifm/Documents/GitHub/CheckUp/check-up.html",
+		"/C/Users/afifm/Documents/GitHub/CheckUp/CheckUp",
+		"/C/Users/afifm/Documents/GitHub/CheckUp/.gitattributes",
+		"/C/Users/afifm/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/C/Users/afifm/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/afifm/Documents/GitHub/Check-Up/.gitattributes",
+		"/C/Users/afifm/Desktop/Check-Up.html",
+		"/C/Users/afifm/Documents/JavaProjects/TicTacToe.java",
+		"/C/Users/afifm/Documents/JavaProjects/HelloWorldApp.java",
+		"/C/Users/afifm/Documents/JavaProjects/Tic Tac Toe",
+		"/C/Users/afifm/Documents/Java Projects/HelloWorldApp.java",
+		"/C/Users/afifm/Documents/alphaity/views/homepage.handlebars",
+		"/C/Users/afifm/Documents/alphaity/.editorconfig"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"20000"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "check-up.html",
+					"settings":
+					{
+						"buffer_size": 1193,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								646,
+								646
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 492.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "basketball.html",
+					"settings":
+					{
+						"buffer_size": 1228,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 292.0,
+	"status_bar_visible": true
+}
