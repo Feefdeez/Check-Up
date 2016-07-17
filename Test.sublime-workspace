@@ -11,7 +11,7 @@
 			"file": "soccer.html",
 			"settings":
 			{
-				"buffer_size": 1084,
+				"buffer_size": 1077,
 				"line_ending": "Windows"
 			}
 		},
@@ -19,7 +19,15 @@
 			"file": "basketball.html",
 			"settings":
 			{
-				"buffer_size": 1228,
+				"buffer_size": 1223,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "check-up.html",
+			"settings":
+			{
+				"buffer_size": 1193,
 				"line_ending": "Windows"
 			}
 		}
@@ -109,15 +117,15 @@
 					"file": "soccer.html",
 					"settings":
 					{
-						"buffer_size": 1084,
+						"buffer_size": 1077,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								800,
-								800
+								873,
+								873
 							]
 						],
 						"settings":
@@ -127,7 +135,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 620.0,
+						"translation.y": 493.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -137,15 +145,15 @@
 					"file": "basketball.html",
 					"settings":
 					{
-						"buffer_size": 1228,
+						"buffer_size": 1223,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								200,
-								200
+								1143,
+								1143
 							]
 						],
 						"settings":
@@ -155,7 +163,35 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 529.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "check-up.html",
+					"settings":
+					{
+						"buffer_size": 1193,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 670.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
